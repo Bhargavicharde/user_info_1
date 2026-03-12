@@ -1,1 +1,2 @@
 batch da 30
+time 8:30 but class starts at 8:40
